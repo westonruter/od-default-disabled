@@ -23,7 +23,7 @@ namespace OptimizationDetective\DefaultDisabled;
 add_filter(
 	'od_can_optimize_response',
 	static function ( $can_optimize ) {
-		if ( ! isset( $_GET['optimization_detective_enabled'] ) ) {
+		if ( ! isset( $_GET['optimization_detective_enabled'] ) ) { // phpcs:ignore WordPress.Security.NonceVerification.Recommended
 			$can_optimize = false;
 		}
 		return $can_optimize;
