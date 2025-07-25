@@ -13,7 +13,8 @@
  * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Text Domain: od-default-disabled
  * Update URI: https://gist.github.com/westonruter/9e9036e8dc11292279a90995273c7adc
- * GitHub Plugin URI: https://gist.github.com/westonruter/9e9036e8dc11292279a90995273c7adc
+ * Gist Plugin URI: https://gist.github.com/westonruter/9e9036e8dc11292279a90995273c7adc
+ * Primary Branch: main
  *
  * @package OptimizationDetective\DefaultDisabled
  */
