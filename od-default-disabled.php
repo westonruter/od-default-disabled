@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Optimization Detective Default Disabled
- * Plugin URI: https://gist.github.com/westonruter/9e9036e8dc11292279a90995273c7adc
+ * Plugin URI: https://github.com/westonruter/od-default-disabled
  * Description: Disables functionality in Optimization Detective by default unless the <code>?optimization_detective_enabled=1</code> query parameter is present. This allows you for troubleshooting issues on a live site without visitors seeing a broken experience.
  * Requires at least: 6.5
  * Requires PHP: 7.2
